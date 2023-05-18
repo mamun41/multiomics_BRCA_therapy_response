@@ -3,7 +3,6 @@
 
 #Thanks all the data and code support from:
 Sammut, S. J., Crispin-Ortuzar, M., Chin, S. F., Provenzano, E., Bardwell, H. A., Ma, W., ... & Caldas, C. (2022). Multi-omic machine learning predictor of breast cancer therapy response. Nature, 601(7894), 623-629.
-&&
 Singh, A., Shannon, C. P., Gautier, B., Rohart, F., Vacher, M., Tebbutt, S. J., & Lê Cao, K. A. (2019). DIABLO: an integrative approach for identifying key molecular drivers from multi-omics assays. Bioinformatics, 35(17), 3055-3062.
 
 #DIABLO: for feature selection
